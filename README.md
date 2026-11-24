@@ -1,4 +1,4 @@
-# Salut 👋, je suis Achref Belhaj
+# HI 👋, je suis Achref Belhaj
 
 **Étudiant en 3ᵉ année d'informatique · Développeur Web · Curieux d'IA appliquée**
 
@@ -12,21 +12,25 @@ Je construis des applications web complètes, du front-end au back-end, et j'exp
 
 ## 📌 Projets phares
 
-### 💼 [PayrollPro](https://github.com/achrefbelhaj2-hub/employee-payroll-interface) — interface de gestion de paie
+### 💼 [PayrollPro](https://github.com/achrefbelhaj2-hub/payroll-management) — interface de gestion de paie
 Application de gestion des employés et de la paie avec tableaux de bord et graphiques.
 
 - Gestion des employés, suivi de la paie, visualisation de données
 - **Stack :** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Recharts
 
-### 🏥 [Cabinet médical](https://github.com/achrefbelhaj2-hub) — application de gestion
-> 🔧 *À compléter : lien du repo + 1 phrase sur ce que fait l'application.*
+### 🏥 [Cabinet médical](https://github.com/achrefbelhaj2-hub/cabinet_medical_gestion) — application desktop de gestion
+Application desktop pour la gestion quotidienne d'un cabinet médical, avec une interface graphique intuitive.
 
-- **Stack :** *(à compléter)*
+- Gestion des patients (CRUD), des rendez-vous et des dossiers médicaux
+- Stockage et persistance des données dans une base MySQL
+- **Stack :** Java · JavaFX · MySQL · JDBC · Maven
 
-### 📚 [Sapientia](https://github.com/achrefbelhaj2-hub) — projet web
-> 🔧 *À compléter : lien du repo + 1 phrase sur ce que fait l'application.*
+### 🎓 [SapientiaAcademy](https://github.com/achrefbelhaj2-hub/SapientiaAcademy) — plateforme éducative pour élèves de Bac Maths
+Application web pour centraliser la gestion des cours, des chapitres, des exercices et des utilisateurs.
 
-- **Stack :** *(à compléter)*
+- Espace administrateur (contenus, utilisateurs, commentaires, logs d'activité) et espace étudiant (cours et exercices)
+- Gestion complète (CRUD) et comptes avec rôles administrateur / étudiant
+- **Stack :** PHP · HTML5 · CSS3 · JavaScript · MySQL · XAMPP (Apache)
 
 ### 🚧 En cours
 - 🤖 Assistant documentaire **RAG** en Python (réponses basées sur des documents)
@@ -36,17 +40,23 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 
 ## 🛠️ Stack technique
 
+### 💬 Langages
+![](https://skillicons.dev/icons?i=java,c,cpp,js,ts,py)
+
 ### 🌐 Front-End
 ![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap)
 
 ### ⚙️ Back-End & Full-Stack
 ![](https://skillicons.dev/icons?i=nextjs,java,spring,python,php)
 
+### 🤖 IA / ML
+![](https://skillicons.dev/icons?i=py,pytorch)
+
 ### 🗄️ Bases de données
-![](https://skillicons.dev/icons?i=mysql,oracle,mongodb)
+![](https://skillicons.dev/icons?i=mysql,mongodb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
 
 ### 🧰 Outils
-![](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,webstorm,postman,figma)
+![](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman)
 
 ---
 
@@ -57,18 +67,12 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 
 ---
 
-## 📊 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=achrefbelhaj2-hub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-![Langages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=achrefbelhaj2-hub&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117)
-
----
 
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achref-belhadj-392075359/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achrefbelhaj2@gmail.com)
-![Vues du profil](https://komarev.com/ghpvc/?username=achrefbelhaj2-hub&style=for-the-badge&color=blueviolet)
 
 ---
 
