@@ -12,20 +12,20 @@ Je construis des applications web complètes, du front-end au back-end, et j'exp
 
 ## 📌 Projets phares
 
-### 💼 [PayrollPro](https://github.com/achrefbelhaj2-hub/payroll-management) — interface de gestion de paie
+### 💼 [PayrollPro](https://github.com/achrefbelhaj/payroll-management) — interface de gestion de paie
 Application de gestion des employés et de la paie avec tableaux de bord et graphiques.
 
 - Gestion des employés, suivi de la paie, visualisation de données
 - **Stack :** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Recharts
 
-### 🏥 [Cabinet médical](https://github.com/achrefbelhaj2-hub/cabinet_medical_gestion) — application desktop de gestion
+### 🏥 [Cabinet médical](https://github.com/achrefbelhaj/cabinet_medical_gestion) — application desktop de gestion
 Application desktop pour la gestion quotidienne d'un cabinet médical, avec une interface graphique intuitive.
 
 - Gestion des patients (CRUD), des rendez-vous et des dossiers médicaux
 - Stockage et persistance des données dans une base MySQL
 - **Stack :** Java · JavaFX · MySQL · JDBC · Maven
 
-### 🎓 [SapientiaAcademy](https://github.com/achrefbelhaj2-hub/SapientiaAcademy) — plateforme éducative pour élèves de Bac Maths
+### 🎓 [SapientiaAcademy](https://github.com/achrefbelhaj/SapientiaAcademy) — plateforme éducative pour élèves de Bac Maths
 Application web pour centraliser la gestion des cours, des chapitres, des exercices et des utilisateurs.
 
 - Espace administrateur (contenus, utilisateurs, commentaires, logs d'activité) et espace étudiant (cours et exercices)
@@ -66,8 +66,6 @@ Application web pour centraliser la gestion des cours, des chapitres, des exerci
 - **CCNA** — ENSA via NetAcad
 
 ---
-
-
 
 ## 📫 Me contacter
 
