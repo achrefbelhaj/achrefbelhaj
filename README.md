@@ -44,7 +44,7 @@ Application web pour centraliser la gestion des cours, des chapitres, des exerci
 ![](https://skillicons.dev/icons?i=java,c,cpp,js,ts,py)
 
 ### 🌐 Front-End
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap)
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)
 
 ### ⚙️ Back-End & Full-Stack
 ![](https://skillicons.dev/icons?i=nextjs,java,spring,python,fastapi,php)
