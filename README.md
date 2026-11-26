@@ -70,7 +70,7 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 ## 🏅 Certifications
 
 - **Python Essentials 2** — Cisco Networking Academy
-- **CCNA** — ENSA via NetAcad
+- **CCNA : Enterprise Networking, Security, and Automation** — Cisco Networking Academy
 
 ---
 
