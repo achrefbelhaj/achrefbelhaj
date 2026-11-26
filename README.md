@@ -59,8 +59,6 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 ### 🤖 IA / ML
 ![](https://skillicons.dev/icons?i=py,pytorch,ChromaDB,Gradio)
 
-RAG · LLM locaux (Qwen) · Hugging Face Transformers · ChromaDB · Gradio
-
 ### 🗄️ Bases de données
 ![](https://skillicons.dev/icons?i=mysql,mongodb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
 
