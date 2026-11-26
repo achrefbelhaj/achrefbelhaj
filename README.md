@@ -2,7 +2,7 @@
 
 **Étudiant en 3ᵉ année d'informatique · Développeur Web · Curieux d'IA appliquée**
 
-🎓 Licence Informatique (L3) à l'**Institut Supérieur d'Informatique (ISI Ariana)** — Université Tunis El Manar, spécialité analyse, conception et développement d'applications.
+🎓 Licence en Génie Logiciel et Systèmes d'Information (L3) à l'**Institut Supérieur d'Informatique (ISI Ariana)** — Université Tunis El Manar, spécialité analyse, conception et développement d'applications.
 
 Je construis des applications web complètes, du front-end au back-end, et j'explore l'IA appliquée (ML, LLM, RAG) pour la mettre au service de vrais projets.
 
@@ -64,6 +64,12 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 
 ### 🧰 Outils
 ![](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman)
+
+---
+
+## 🎓 Parcours
+
+- **Licence en Génie Logiciel et Systèmes d'Information** — Institut Supérieur d'Informatique (ISI Ariana), Université Tunis El Manar · 2024–2027
 
 ---
 
