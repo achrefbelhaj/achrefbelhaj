@@ -57,7 +57,9 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 ![](https://skillicons.dev/icons?i=nextjs,java,spring,python,fastapi,php)
 
 ### 🤖 IA / ML
-![](https://skillicons.dev/icons?i=py,pytorch,ChromaDB,Gradio)
+![](https://skillicons.dev/icons?i=py,pytorch)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logo=databricks&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white)
 
 ### 🗄️ Bases de données
 ![](https://skillicons.dev/icons?i=mysql,mongodb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
