@@ -57,7 +57,7 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 ![](https://skillicons.dev/icons?i=nextjs,java,spring,python,fastapi,php)
 
 ### 🤖 IA / ML
-![](https://skillicons.dev/icons?i=py,pytorch)
+![](https://skillicons.dev/icons?i=py,pytorch,ChromaDB,Gradio)
 
 RAG · LLM locaux (Qwen) · Hugging Face Transformers · ChromaDB · Gradio
 
