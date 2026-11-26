@@ -12,12 +12,6 @@ Je construis des applications web complètes, du front-end au back-end, et j'exp
 
 ## 📌 Projets phares
 
-### 💼 [PayrollPro](https://github.com/achrefbelhaj/payroll-management) — interface de gestion de paie
-Application de gestion des employés et de la paie avec tableaux de bord et graphiques.
-
-- Gestion des employés, suivi de la paie, visualisation de données
-- **Stack :** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Recharts
-
 ### 🏥 [Cabinet médical](https://github.com/achrefbelhaj/cabinet_medical_gestion) — application desktop de gestion
 Application desktop pour la gestion quotidienne d'un cabinet médical, avec une interface graphique intuitive.
 
@@ -32,6 +26,12 @@ Application web pour centraliser la gestion des cours, des chapitres, des exerci
 - Gestion complète (CRUD) et comptes avec rôles administrateur / étudiant
 - **Stack :** PHP · HTML5 · CSS3 · JavaScript · MySQL · XAMPP (Apache)
 
+### 💼 [PayrollPro](https://github.com/achrefbelhaj/payroll-management) — interface de gestion de paie (PRIVATE)
+Application de gestion des employés et de la paie avec tableaux de bord et graphiques.
+
+- Gestion des employés, suivi de la paie, visualisation de données
+- **Stack :** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui
+  
 ### 🚧 En cours
 - 🤖 Assistant documentaire **RAG** en Python (réponses basées sur des documents)
 - 🔐 Application full-stack **React + Tailwind + shadcn/ui** avec authentification et autorisation **JWT**
