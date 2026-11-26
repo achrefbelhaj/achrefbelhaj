@@ -71,6 +71,7 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 
 - **Python Essentials 2** — Cisco Networking Academy
 - **CCNA : Enterprise Networking, Security, and Automation** — Cisco Networking Academy
+- **Generative AI & Workflow Automation Bootcamp** — WeYouth
 
 ---
 
