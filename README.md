@@ -12,6 +12,14 @@ Je construis des applications web complètes, du front-end au back-end, et j'exp
 
 ## 📌 Projets phares
 
+### 🤖 [Assistant Tounsy (RAG)](https://github.com/achrefbelhaj/rag-tounsy-assistant) — assistant documentaire sur Tunis
+Assistant de questions-réponses qui répond uniquement à partir de documents sur Tunis et cite ses sources.
+
+- Lecture de fichiers TXT, Markdown, Word et PDF, découpage par paragraphes, recherche vectorielle avec ChromaDB
+- Sources citées (fichier, section, page) et refus de répondre quand l'information n'est pas dans les documents
+- LLM Qwen2.5 exécuté en local, interface de chat Gradio, tests automatisés sans téléchargement de modèle
+- **Stack :** Python · ChromaDB · Sentence-Transformers · Hugging Face Transformers · Gradio · pytest
+
 ### 🏥 [Cabinet médical](https://github.com/achrefbelhaj/cabinet_medical_gestion) — application desktop de gestion
 Application desktop pour la gestion quotidienne d'un cabinet médical, avec une interface graphique intuitive.
 
@@ -31,9 +39,8 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 
 - Gestion des employés, suivi de la paie, visualisation de données
 - **Stack :** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui
-  
+
 ### 🚧 En cours
-- 🤖 Assistant documentaire **RAG** en Python (réponses basées sur des documents)
 - 🔐 Application full-stack **React + Tailwind + shadcn/ui** avec authentification et autorisation **JWT**
 
 ---
@@ -51,6 +58,8 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 
 ### 🤖 IA / ML
 ![](https://skillicons.dev/icons?i=py,pytorch)
+
+RAG · LLM locaux (Qwen) · Hugging Face Transformers · ChromaDB · Gradio
 
 ### 🗄️ Bases de données
 ![](https://skillicons.dev/icons?i=mysql,mongodb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
