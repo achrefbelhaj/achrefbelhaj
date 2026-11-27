@@ -12,6 +12,14 @@ Je construis des applications web complètes, du front-end au back-end, et j'exp
 
 ## 📌 Projets phares
 
+### ✨ [SmartNotes](https://github.com/achrefbelhaj/smartnotes) — application de notes avec résumé IA
+Application web full-stack de prise de notes sécurisée par JWT, avec résumé automatique des notes par l'IA. Réalisée en binôme.
+
+- Inscription et connexion avec JWT et Spring Security (mots de passe hachés avec BCrypt)
+- Notes privées : chaque utilisateur crée, modifie et supprime uniquement ses propres notes
+- Bouton « ✨ Résumer » : le backend appelle l'API Google Gemini, la clé API reste côté serveur
+- **Stack :** Java · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · React · Tailwind CSS · Gemini API
+
 ### 🤖 [Assistant Tounsy (RAG)](https://github.com/achrefbelhaj/rag-tounsy-assistant) — assistant documentaire sur Tunis
 Assistant de questions-réponses qui répond uniquement à partir de documents sur Tunis et cite ses sources.
 
@@ -39,9 +47,6 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 
 - Gestion des employés, suivi de la paie, visualisation de données
 - **Stack :** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui
-
-### 🚧 En cours
-- 🔐 Application full-stack **React + Tailwind + shadcn/ui** avec authentification et autorisation **JWT**
 
 ---
 
