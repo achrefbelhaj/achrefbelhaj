@@ -21,7 +21,7 @@ Assistant de questions-réponses qui répond uniquement à partir de documents s
 - LLM Qwen2.5 exécuté en local, interface de chat Gradio, tests automatisés sans téléchargement de modèle
 - **Stack :** Python · ChromaDB · Sentence-Transformers · Hugging Face Transformers · Gradio · pytest
 
-  ### ✨ [SmartNotes](https://github.com/achrefbelhaj/smartnotes) — application de notes avec résumé IA (projet en binome/en cours)
+### ✨ [SmartNotes](https://github.com/achrefbelhaj/smartnotes) — application de notes avec résumé IA (projet en binome/en cours)
 Application web full-stack de prise de notes sécurisée par JWT, avec résumé automatique des notes par l'IA. Réalisée en binôme.
 
 - Inscription et connexion avec JWT et Spring Security (mots de passe hachés avec BCrypt)
