@@ -8,6 +8,8 @@ Je construis des applications web complètes, du front-end au back-end, et j'exp
 
 🔭 **Je recherche un stage de fin d'études (PFE) à partir de janvier** — développement web full-stack / IA appliquée.
 
+🌐 **Portfolio :** [achref-belhadj.vercel.app](https://achref-belhadj.vercel.app)
+
 ---
 
 ## 📌 Projets phares
@@ -89,7 +91,8 @@ Application de gestion des employés et de la paie avec tableaux de bord et grap
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achref-belhadj-392075359/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://achref-belhadj.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achref-belhadj/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achrefbelhaj2@gmail.com)
 
 ---
