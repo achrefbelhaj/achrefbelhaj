@@ -12,13 +12,6 @@ Je construis des applications web complètes, du front-end au back-end, et j'exp
 
 ## 📌 Projets phares
 
-### ✨ [SmartNotes](https://github.com/achrefbelhaj/smartnotes) — application de notes avec résumé IA
-Application web full-stack de prise de notes sécurisée par JWT, avec résumé automatique des notes par l'IA. Réalisée en binôme.
-
-- Inscription et connexion avec JWT et Spring Security (mots de passe hachés avec BCrypt)
-- Notes privées : chaque utilisateur crée, modifie et supprime uniquement ses propres notes
-- Bouton « ✨ Résumer » : le backend appelle l'API Google Gemini, la clé API reste côté serveur
-- **Stack :** Java · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · React · Tailwind CSS · Gemini API
 
 ### 🤖 [Assistant Tounsy (RAG)](https://github.com/achrefbelhaj/rag-tounsy-assistant) — assistant documentaire sur Tunis
 Assistant de questions-réponses qui répond uniquement à partir de documents sur Tunis et cite ses sources.
@@ -27,6 +20,14 @@ Assistant de questions-réponses qui répond uniquement à partir de documents s
 - Sources citées (fichier, section, page) et refus de répondre quand l'information n'est pas dans les documents
 - LLM Qwen2.5 exécuté en local, interface de chat Gradio, tests automatisés sans téléchargement de modèle
 - **Stack :** Python · ChromaDB · Sentence-Transformers · Hugging Face Transformers · Gradio · pytest
+
+  ### ✨ [SmartNotes](https://github.com/achrefbelhaj/smartnotes) — application de notes avec résumé IA (projet en binome/en cours)
+Application web full-stack de prise de notes sécurisée par JWT, avec résumé automatique des notes par l'IA. Réalisée en binôme.
+
+- Inscription et connexion avec JWT et Spring Security (mots de passe hachés avec BCrypt)
+- Notes privées : chaque utilisateur crée, modifie et supprime uniquement ses propres notes
+- Bouton « ✨ Résumer » : le backend appelle l'API Google Gemini, la clé API reste côté serveur
+- **Stack :** Java · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · React · Tailwind CSS · Gemini API
 
 ### 🏥 [Cabinet médical](https://github.com/achrefbelhaj/cabinet_medical_gestion) — application desktop de gestion
 Application desktop pour la gestion quotidienne d'un cabinet médical, avec une interface graphique intuitive.
